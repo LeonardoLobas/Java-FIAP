@@ -1,4 +1,4 @@
-package operadoresLogicos;
+package operadoreslogicos;
 
 import java.util.Random;
 import java.util.Scanner;

@@ -1,4 +1,4 @@
-package OrientaçãoObejtos;
+package orientaçãobjetos;
 
 public class PersonagemMagico {
 

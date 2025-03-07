@@ -1,6 +1,5 @@
-package operadoresLogicos;
+package operadoreslogicos;
 import java.util.Scanner;
-import java.util.Set;
 
 public class While {
     public static void main(String[] args) {

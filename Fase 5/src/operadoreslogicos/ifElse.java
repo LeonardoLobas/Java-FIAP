@@ -1,4 +1,4 @@
-package operadoresLogicos;
+package operadoreslogicos;
 import java.util.Scanner;
 
 public class ifElse {

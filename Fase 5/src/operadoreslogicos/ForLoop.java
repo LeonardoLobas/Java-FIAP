@@ -1,4 +1,4 @@
-package operadoresLogicos;
+package operadoreslogicos;
 public class ForLoop {
         public static void main(String[] args) {
             System.out.println("Tabela de Multiplicação:");

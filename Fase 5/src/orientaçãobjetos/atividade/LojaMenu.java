@@ -1,4 +1,4 @@
-package OrientaçãoObejtos.atividade;
+package orientaçãobjetos.atividade;
 
 import java.util.Scanner;
 

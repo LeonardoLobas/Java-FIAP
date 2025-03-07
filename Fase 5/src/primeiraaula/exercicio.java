@@ -1,3 +1,5 @@
+package primeiraaula;
+
 import java.util.Scanner;
 
 public class exercicio {
